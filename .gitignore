@@ -1,0 +1,7 @@
+# Diretórios
+.vscode/
+bin/
+obj/
+
+# Arquivos
+.DS_Store
